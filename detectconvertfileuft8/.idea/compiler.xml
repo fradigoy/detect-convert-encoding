@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="detectconvertfileuft8" />
+        <module name="detect-convert-file-uft8" />
       </profile>
     </annotationProcessing>
   </component>
